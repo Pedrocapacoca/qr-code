@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400,700&display=swap');
+body{
+	background-color: #D5E1EF;
+
+}
+.local{
+color: #283754;
+font-family: 'Outfit',sans-serif;
+font-size: 20px;
+}
+
+h5{
+color: #88909B;	
+font-family: 'Outfit',sans-serif;
+}
+
+
+
+.tela{
+	position: absolute;
+	top:15%;
+	left:40%;
+	background-color:#FFFFFF;
+	width: 350px;
+	height: 500px;
+	border-radius:15px;
+	
+}
+
+.imagem{
+
+position: absolute;
+top: -30%;
+right:-155%;
+height: 800px;
+}
